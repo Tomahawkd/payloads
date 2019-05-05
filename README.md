@@ -35,6 +35,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - jeanphorn         - https://github.com/jeanphorn/wordlist
 - j3ers3            - https://github.com/j3ers3/PassList
 - nyxxxie           - https://github.com/nyxxxie/awesome-default-passwords
+- foospidy          - https://github.com/foospidy/web-cve-tests
 
 #### OWASP
 
@@ -59,9 +60,12 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - xss/secgeek.txt         - https://www.secgeek.net/solutions-for-xss-waf-challenge/
 - xss/reddit_xss_get.txt  - All XSS GET requests from https://www.reddit.com/r/xss (as of 3/30/2016)
 - xss/rafaybaloch.txt     - http://www.rafayhackingarticles.net/2016/09/breaking-great-wall-of-web-xss-waf.html
+- xss/alternume0.txt      - https://www.openbugbounty.org/reports/722726/
+- xss/XssPayloads         - https://twitter.com/XssPayloads
 - sqli/camoufl4g3.txt     - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt       - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 - sqli/sqlifuzzer.txt     - https://github.com/ContactLeft/sqlifuzzer/tree/master/payloads
+- sqli/harisec.txt        - https://hackerone.com/reports/297478
 - sqli/jstnkndy.txt       - https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
 - sqli/d0znpp.txt         - https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f
 - sqli/libinjection-bypasses.txt - https://gist.github.com/migolovanov/432fe28c8c7e9fa675ab3903c5eda77f
